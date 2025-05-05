@@ -1,4 +1,4 @@
-
+package src.alonsoDiego;
 public class Klondike {
 
     private Baraja baraja;
